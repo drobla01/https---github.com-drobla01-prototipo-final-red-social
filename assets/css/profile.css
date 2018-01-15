@@ -8,13 +8,28 @@
 }
 
 .foto1{
-  float: left;
-margin: 5px;
-  
+    float:left;
+  width: 48px;
+  margin-bottom: 22px;
 }
 
 .foto2{
     margin: 0;
     padding: 0;
     clear: both;
+}
+
+.titulo{
+    margin: 9px;
+    font-size: 17px;
+}
+
+.cardInfo{
+    clear: both;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.icono{
+    padding-top: 20px;
 }
